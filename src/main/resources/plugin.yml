@@ -1,0 +1,4 @@
+name: TreeCutter
+version: @version@
+main: com.tree.cutter.TreeCutterPlugin
+api-version: 1.14
