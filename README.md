@@ -1,5 +1,5 @@
 # Tree Cutter
-It's minecraft plugin which cut trees like tree capitator
+Minecraft plugin which cut trees like tree capitator
 # Installation
 Build plugin to jar archive
 ```
